@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/Adb.md",
+                "file": "git/Remote.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/Adb.md",
+                "file": "git/Remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/Adb.md",
+                "file": "git/Remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/Adb.md"
+                "file": "git/Remote.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   "active": "3cb055af0cb4c909",
   "lastOpenFiles": [
     "unix/Work with bash_profile (mac).md",
+    "git/Remote.md",
     "android/Adb.md",
     "Untitled",
     "android/a",
     "android",
     "git/Most usable commands.md",
-    "git/Remote.md",
     "unix/Untitled",
     "unix/Shell commands.md",
     "unix",
