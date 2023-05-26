@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e7f054ed039633",
+        "id": "785102d49f4af624",
         "type": "tabs",
         "children": [
           {
-            "id": "f88ec977ea21e832",
+            "id": "3cb055af0cb4c909",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "android/Adb.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "right": {
     "id": "72bf052aa8e3ea2f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "android/Adb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "android/Adb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "android/Adb.md"
+              }
             }
           }
         ]
@@ -138,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3de6301a585ec453",
+  "active": "3cb055af0cb4c909",
   "lastOpenFiles": [
+    "unix/Work with bash_profile (mac).md",
+    "android/Adb.md",
+    "Untitled",
+    "android/a",
+    "android",
+    "git/Most usable commands.md",
+    "git/Remote.md",
+    "unix/Untitled",
+    "unix/Shell commands.md",
+    "unix",
     "git/2023-05-25.md",
     "git/Untitled 2.canvas",
     "git/Untitled 1.canvas",
