@@ -22,3 +22,7 @@ Update submodule
 ```bash
 git submodule update --init --recursive
 ```
+Change origin url
+```shell
+git remote set-url origin https://git-repo/new-repository.git
+```
