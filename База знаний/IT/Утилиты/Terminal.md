@@ -1,12 +1,20 @@
-Вернуться в: [[IT]]
+Вернуться в: [[Утилиты]]
 
 Изучить:
-mitmproxy  brew install mitmproxy
 fzf
 ripgrep
 bat
 eza
 lf
+
+### Micro (text editor)
+[Official site](https://micro-editor.github.io/)
+
+### Mitmproxy
+[Official site](https://mitmproxy.org/)
+```bash
+brew install mitmproxy
+```
 
 ### Fish
 #### Install
